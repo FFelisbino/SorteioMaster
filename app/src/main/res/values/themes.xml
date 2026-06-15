@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SorteioMaster" parent="android:Theme.Material.NoTitleBar">
+        <item name="android:statusBarColor">#1A0533</item>
+        <item name="android:navigationBarColor">#2A1040</item>
+    </style>
+</resources>

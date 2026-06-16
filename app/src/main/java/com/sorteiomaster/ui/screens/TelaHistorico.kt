@@ -31,7 +31,7 @@ fun TelaHistorico(
     var mostrarConfirmacao by remember { mutableStateOf(false) }
 
     Box(
-        modifier = Modifier
+        modifier = modifier
             .fillMaxSize()
             .background(Brush.verticalGradient(listOf(Color(0xFF0D001A), Roxo900)))
     ) {

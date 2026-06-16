@@ -44,7 +44,7 @@ fun TelaInicial(
     val scrollState = rememberScrollState()
 
     Box(
-        modifier = Modifier
+        modifier = modifier
             .fillMaxSize()
             .background(
                 Brush.verticalGradient(listOf(Roxo900, Color(0xFF0D001A)))
